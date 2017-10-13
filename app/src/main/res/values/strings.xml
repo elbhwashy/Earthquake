@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Earthquake</string>
+    <string name="magnitude1">7.2</string>
+    <string name="magnitude2">6.1</string>
+    <string name="magnitude3">3.9</string>
+    <string name="magnitude4">5.4</string>
+    <string name="magnitude5">2.8</string>
+    <string name="magnitude6">4.9</string>
+    <string name="magnitude7">1.6</string>
+    <string name="location1">San francisco</string>
+    <string name="location2">london</string>
+    <string name="location3">tokyo</string>
+    <string name="location4">mexico</string>
+    <string name="location5">moscow</string>
+    <string name="location6">cairo</string>
+    <string name="location7">paris</string>
+    <string name="date1">Feb 2,2016</string>
+    <string name="date2">July 20,2015</string>
+    <string name="date3">Nov 10,2014</string>
+    <string name="date4">May 3,2014</string>
+    <string name="date5">Jan 31,2013</string>
+    <string name="date6">Aug 19,2012</string>
+    <string name="date7">Oct 30,2011</string>
+    <string name="near_the">Near the</string>
+
+
+
+
+
+</resources>
